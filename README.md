@@ -10,7 +10,7 @@ Simple game, based on Flappy Bird
 ## Projects Used
 
 * [anim8](https://github.com/kikito/anim8) - Animation library for LÖVE2D
-* [tiny-ecs](https://github.com/bakpakin/tiny-ecs/) - Entity Component System for Lua
+* [lövetoys](https://love2d.org/wiki/Lovetoys) - Entity Component System framework for game development with lua
 
 ## License
 
