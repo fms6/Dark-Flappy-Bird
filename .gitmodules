@@ -1,9 +1,6 @@
-[submodule "src/lovetoys"]
-	path = src/lovetoys
+[submodule "lib/lovetoys"]
+	path = lib/lovetoys
 	url = https://github.com/lovetoys/lovetoys
-[submodule "src/lib/lovetoys"]
-	path = src/lib/lovetoys
-	url = https://github.com/lovetoys/lovetoys
-[submodule "src/lib/anim8"]
-	path = src/lib/anim8
+[submodule "lib/anim8"]
+	path = lib/anim8
 	url = https://github.com/kikito/anim8
