@@ -10,6 +10,15 @@ function camera:move(dx, dy)
    self.y = self.y + (dy or 0)
 end
 
+function camera:set(x, y)
+  love.graphics.push()
+  love.graphics.translate(-x, -y)
+end
+
+function camera:unset()
+  love.graphics.pop()
+end
+
 function camera:rotate(dr)
    self.rotation = self.rotation + dr
 end
