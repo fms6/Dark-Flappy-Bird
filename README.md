@@ -1,6 +1,6 @@
 # Dark Flappy Bird by Filipe Melo
 
-Simple game, based on Flappy Bird
+Simple game based on Flappy Bird
 
 ## Prerequisites
 
