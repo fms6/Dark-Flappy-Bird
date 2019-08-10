@@ -1,4 +1,4 @@
-# Dark Flappy Bird by Filipe Melo
+# Dark Flappy Bird
 
 Simple game based on Flappy Bird
 
